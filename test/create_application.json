@@ -1,0 +1,17 @@
+{
+  "name": "Aksharaa Sri",
+  "dob": "2016-01-19T07:05:00.777Z",
+  "sex": "Female",
+  "name_father": "Arun Madhavan Govindarajan",
+  "name_mother": "Shreenithi Ramanujam",
+  "address": "10, Jayavinayagar Koil Street, Urur, Adyar, Chennai- 600020",
+  "is_amumni": true,
+  "has_sibling": false,
+  "email": "arunmadhavan.g@gmail.com",
+  "phone": "9840808667",
+  "alumni": {
+    "relationship": "Father",
+    "year_of_passing": 2002,
+    "reg_no": "15210"
+  }
+}
